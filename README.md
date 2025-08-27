@@ -1,4 +1,4 @@
-# 👋 Hola, soy Robert Collins Dättwyler probando
+# 👋 Hola, soy Robert Collins Dättwyler
 
 <div align="center">
   
